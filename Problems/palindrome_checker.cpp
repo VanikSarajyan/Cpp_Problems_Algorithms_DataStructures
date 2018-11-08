@@ -17,4 +17,6 @@ int main()
     string s;
     cin >> s;
     isPalindrome(s) ? cout << "Yes \n" : cout << "No \n";
+    system("pause");
+    return 0;
 }
